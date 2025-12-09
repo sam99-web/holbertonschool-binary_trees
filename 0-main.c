@@ -1,5 +1,5 @@
-#include<stdlib>
-#include<main.h>
+#include<stdlib.h>
+#include"binary_trees.h"
 
 
 /**
@@ -24,4 +24,3 @@ int main(void)
     binary_tree_print(root);
     return (0);
 }
-
